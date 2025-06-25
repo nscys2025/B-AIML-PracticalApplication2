@@ -1,3 +1,5 @@
+# [Jupyter Notebook Link](https://github.com/nscys2025/B-AIML-PracticalApplication2/blob/main/readme.md)
+
 ### Analysis Goal
 The analysis goal is to provide the list of data features that impacts the used car price the most using the 426k dataset containing various car attribute data.
 
